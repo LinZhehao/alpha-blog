@@ -16,6 +16,7 @@ gem 'bootstrap-will_paginate', '1.0.0'
 gem 'sqlite3'
 # Use Jquery Rails
 gem 'jquery-rails'
+gem 'rails-controller-testing'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
