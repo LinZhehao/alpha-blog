@@ -18,7 +18,7 @@ gem 'sqlite3'
 gem 'jquery-rails'
 gem 'rails-controller-testing'
 # Use Puma as the app server
-gem 'puma', '~> 3.7'
+gem 'puma', '~> 4.3'
 # Use SCSS for stylesheets
 gem 'bootstrap-sass', '~> 3.3.5'
 gem 'sass-rails', '~> 5.0'
